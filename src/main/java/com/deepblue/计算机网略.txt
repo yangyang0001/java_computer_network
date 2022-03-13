@@ -298,7 +298,9 @@ VPN
 
 网络地址转换
     NAT技术  需要有 NAT 路由器 支撑!
-    NAPT技术
+    NAPT技术 需要由 NAPT 路由器 支撑!
+
+    NAPT 技术非常重要  参考 24_NAT和NAPT工作原理.png
 
 总结:
     路由器的作用:
